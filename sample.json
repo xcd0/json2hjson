@@ -1,0 +1,21 @@
+{
+	"commas": {
+		"one": 1,
+		"two": 2
+	},
+	"favNumbers": [
+		1,
+		2,
+		3,
+		6,
+		42
+	],
+	"haiku": "JSON I love you.\nBut you strangle my expression.\nThis is so much better.",
+	"key": "value",
+	"rate": 1000,
+	"text": "look ma, no quotes!",
+	"trailing": {
+		"one": 1,
+		"two": 2
+	}
+}
